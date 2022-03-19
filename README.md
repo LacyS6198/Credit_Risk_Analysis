@@ -5,7 +5,7 @@ Due to the nature of the data, which is inherently unabalanced, multiple machine
 # Results
 A total of six different models were used. The results of each are noted below. 
 
-##Random Oversampling
+## Random Oversampling
  - Balanced accuracy score:  63.67%
  - High-risk precision score:  1%
  - High-risk Sensitivity:  62%
