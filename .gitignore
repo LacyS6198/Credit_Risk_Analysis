@@ -29,7 +29,6 @@ MANIFEST
 
 # Custom
 .ipynb_checkpoints/
-Images/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
