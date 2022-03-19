@@ -43,6 +43,7 @@ A total of six different models were used. The results of each are noted below.
  <br>
 
 # Summary
+All of the models had a low precision scores (between 1 - 7%)
 Of all six models, the Easy Ensemble Classifier model had the highest balanced accuracy (92.54%) and sensitivity (91%). 
 Due to the nature of the imbalanced data, with only a very small percentage being high-risk, the focus is on the ability of the model to accurately predict the high-risk classification. 
 Based on the results, the best option of the six models would be the EasyEnsembleClassifier model based on the fact that it has the highest accuracy, sensitivity, precision and F1 values of all six models. 
