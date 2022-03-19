@@ -35,25 +35,25 @@ A total of six different models were used. The results of each are noted below.
  - High-risk precision score:  1%
  - High-risk Sensitivity:  70%
  - High-risk F1 value: 2%
-<br>
-![smotten](https://user-images.githubusercontent.com/93630042/159132192-5c48d965-8556-45ad-ab15-d89b55ff1971.png)
-<br>
+
+![smotten](https://user-images.githubusercontent.com/93630042/159132323-ecdeefb5-e9ef-4cf1-9b97-c99bc2be2048.png)
+
 ## BalancedRandomForestClassifier
  - Balanced accuracy score:  78.78%
  - High-risk precision score:  4%
  - High-risk Sensitivity:  67%
  - High-risk F1 value: 7%
-<br>
-![brfc](https://user-images.githubusercontent.com/93630042/159132199-80edb251-6957-406f-9b69-bee78dc50ce5.png)
-<br>
+
+![brfc](https://user-images.githubusercontent.com/93630042/159132331-2a9db496-1518-4c09-a359-bce5b9da2c85.png)
+
 ## EasyEnsembleClassifier
  - Balanced accuracy score:  92.54%
  - High-risk precision score:  7%
  - High-risk Sensitivity:  91%
  - High-risk F1 value: 14%
-<br>
-![eec](https://user-images.githubusercontent.com/93630042/159132207-bfea0e26-46db-4261-a81f-5c50840907cb.png)
-<br>
+
+![eec](https://user-images.githubusercontent.com/93630042/159132340-0f6fbdd3-eefe-4e7c-a221-3c8ed060bb03.png)
+
 
 # Summary
 Of all six models, the Easy Ensemble Classifier model had the highest balanced accuracy (92.54%) and sensitivity (91%). 
