@@ -10,10 +10,10 @@ A total of six different models were used. The results of each are noted below.
  - High-risk precision score:  1%
  - High-risk Sensitivity:  62%
  - High-risk F1 value: 2%
-<br>
-![Oversample](https://user-images.githubusercontent.com/93630042/159132144-6b005164-522b-41c1-8fe4-6fc7f2c7b227.png)
-<br>
-## SMOTE
+
+![Oversample](https://user-images.githubusercontent.com/93630042/159132286-204795b4-9a17-4206-a65d-deec083de917.png)
+
+
  - Balanced accuracy score:  63.03%
  - High-risk precision score:  1%
  - High-risk Sensitivity:  62%
