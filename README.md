@@ -13,22 +13,23 @@ A total of six different models were used. The results of each are noted below.
 
 ![Oversample](https://user-images.githubusercontent.com/93630042/159132286-204795b4-9a17-4206-a65d-deec083de917.png)
 
-
+## SMOTE
  - Balanced accuracy score:  63.03%
  - High-risk precision score:  1%
  - High-risk Sensitivity:  62%
  - High-risk F1 value: 2%
-<br>
-![smote](https://user-images.githubusercontent.com/93630042/159132174-2a43ac55-ebe9-4f06-9b69-6080ae03dd46.png)
-<br>
+
+![smote](https://user-images.githubusercontent.com/93630042/159132300-184c07e0-6433-4f1a-845e-953dd37a5c57.png)
+
+
 ## Cluster Centroids Undersampling
  - Balanced accuracy score:  63.03%
  - High-risk precision score:  1%
  - High-risk Sensitivity:  60%
  - High-risk F1 value: 1%
-<br>
-![cluster](https://user-images.githubusercontent.com/93630042/159132182-79be8e7b-f677-4c1e-9778-bf36305e5749.png)
-<br>
+
+![cluster](https://user-images.githubusercontent.com/93630042/159132308-8789dee8-aca2-4b2d-b140-76622ba45e70.png)
+
 ## SMOTEENN
  - Balanced accuracy score:  63.76%
  - High-risk precision score:  1%
